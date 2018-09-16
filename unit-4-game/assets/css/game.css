@@ -1,0 +1,39 @@
+h1 {
+    color: white;
+
+}
+body {
+    background-image: url("https://img.freepik.com/free-vector/console-with-games-lettering-neon-sign-on-brick-background_1262-11854.jpg?size=338&ext=jpg");
+}
+nav {
+    color: red;
+}
+#blue {
+    background: purple;
+    height: 150px;
+}
+#green {
+    height: 150px;
+    width: 90px;
+}
+#red {
+    height: 150px;
+    width: 90px;
+}
+#orange {
+    height: 150px;
+    width: 90px;
+}
+li{
+    display: inline;
+}
+#score{
+   height: 150px;
+color: red;
+}
+#wins {
+    color: red;
+}
+#loses{
+    color: red;
+}
